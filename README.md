@@ -21,4 +21,5 @@ Source: [Kaggle Competition](https://www.kaggle.com/c/planet-understanding-the-a
 
 ### General Summary (Results)
 We implemented multiple deep neural networks along with domain-specific pre-processing techniques (Haze Removal) to achieve a F2 score of 0.9257, landing us in the top 20% of the Kaggle leaderboard.
+![amazon_summary](https://user-images.githubusercontent.com/44115595/72654848-ffcfca80-3956-11ea-953c-435225811a38.png)
 
