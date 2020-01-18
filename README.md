@@ -21,5 +21,8 @@ Source: [Kaggle Competition](https://www.kaggle.com/c/planet-understanding-the-a
 
 ### General Summary (Results)
 We implemented multiple deep neural networks along with domain-specific pre-processing techniques (Haze Removal) to achieve a F2 score of 0.9257, landing us in the top 20% of the Kaggle leaderboard.
+
+Since the dataset was highly imbalanced, we attempted to handle this by additional pre-processing and developing an additional model exclusively for training the rare labels and stacked this on top of the base model. This approach helped to considerably elevate our model’s ability to detect and predict the rare labels which was evident from the lift in precision and F1-scores for the rare labels.
+
 ![amazon_summary](https://user-images.githubusercontent.com/44115595/72654848-ffcfca80-3956-11ea-953c-435225811a38.png)
 
