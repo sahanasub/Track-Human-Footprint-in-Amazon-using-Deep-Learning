@@ -1,5 +1,7 @@
-# Understanding-the-Amazon-from-Space
-### Our solution to Planet's kaggle challenge to track human footprint in Amazon rainforest using deep learning.
+# Understanding the Amazon from Space
+## Track Human Footprint in the Amazon Rainforest using Deep Learning
+
+
 The Amazon is home to one million indigenous people and three million species of plants and animals. It is essential to pinpont the location of deforestation and human encroachment to enable speedy response times and curb further damage to the ecosystem. Advancement in satellite imagery coupled with machine learning has paved way for detecting small-scale deforestation and differentiating between human and natural causes of deforestation.
 
 ### The Team
